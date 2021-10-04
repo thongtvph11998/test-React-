@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": "f7c0a593-289c-4bcd-a9a1-a709dcb85089",
+      "categoryId": "1",
+      "name": "Laptop Asus Zenbook UX325EA-EG079T i5 1135G7/8GB/256GB SSD/Intel Iris Xe Graphics/Win10",
+      "price": "21990000",
+      "price_detail": "20790000",
+      "desc": "Asus ZenBook UX325EA-EG079T là một trong những chiếc laptop mỏng nhẹ hàng đầu thế giới với trọng lượng chỉ xấp xỉ 1kg và màn hình viền mỏng nhất bạn từng thấy. Ấn tượng hơn khi ZenBook UX325EA còn sở hữu bộ vi xử lý Intel thế hệ thứ 11 vô cùng mạnh mẽ.",
+      "status": false,
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6c80e.appspot.com/o/2021%2Fupload%2F17-04%2F1.jpg?alt=media&token=1f1228df-af12-4e9b-bd1c-4260235b0478"
+    },
+    {
+      "id": "09680bf7-5184-4193-81dd-7863115077bb",
+      "categoryId": "1",
+      "name": "Laptop Acer Swift 3x SF314 510G 57MR i5 1135G7/8G/512GSSD/Intel Iris Xe Max 4GB/Win10",
+      "price": "22999000",
+      "price_detail": "20000000",
+      "desc": "14.0\", 1920 x 1080 Pixel, IPS, 60 Hz, IPS LCD LED Backlit, True Tone\n\nIntel Core i5-1135G7\n\n8 GB, LPDDR4, 4266 MHz\n\nSSD 512 GB\n\nIntel Iris Xe Max 4GB",
+      "status": true,
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6c80e.appspot.com/o/2021%2Fupload%2F16-04%2F2.jpg?alt=media&token=45eae096-1ab7-40ae-a5da-91183ce112e2"
+    },
+    {
+      "id": "b69a0cd7-6e68-4a08-8af9-62c5bf83d8b2",
+      "categoryId": "1",
+      "name": "Laptop Asus Zenbook UX425EA BM069T i5 1135G7/8G/512GB SSD/14\"FHD/VGA Iris Xe/Win 10",
+      "price": "27000000",
+      "price_detail": "25000000",
+      "desc": "14.0\", 1920 x 1080 Pixel, IPS, 60 Hz, 300 nits, Anti-glare LED-backlit\n\nIntel Core i5-1135G7\n\n8 GB, LPDDR4, 4266 MHz\n\nSSD 512 GB\n\nIris Plus Graphics",
+      "status": true,
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6c80e.appspot.com/o/2021%2Fupload%2F17-04%2F3.jpg?alt=media&token=2778e22f-8a63-4f08-9d2f-965636b53ca4"
+    },
+    {
+      "id": "47c97fd5-1312-4452-b523-a52a6a170083",
+      "categoryId": "1",
+      "name": "Laptop MSI GL65 Leopard 10SCXK-093VN i7 10750H/8GB/512GB/15.6\"FHD/GTX1650 4Gb/Win 10",
+      "price": "25000000",
+      "price_detail": "24500000",
+      "desc": "15.6\", 1920 x 1080 Pixel, IPS, 144 Hz, IPS LCD LED Backlit, True Tone\n\nIntel Core i7-10750H\n\n8 GB, DDR4, 2666 MHz\n\nSSD 512 GB\n\nNVIDIA® GeForce® GTX1650 4GB",
+      "status": false,
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6c80e.appspot.com/o/2021%2Fupload%2F17-04%2F4.jpg?alt=media&token=eb4e5fe9-62c3-4c70-8269-f61b55ef2ae3"
+    },
+    {
+      "id": "2e0cc5f1-d91e-4623-b420-5bf6e4881e0f",
+      "categoryId": "1",
+      "name": "Laptop Asus TUF Gaming FX516PM HN023T i7 11370H/16GB/512GB SSD/RTX3060_6GB/Win10",
+      "price": "32900000",
+      "price_detail": "2999900",
+      "desc": "15.6\", 1920 x 1080 Pixel, IPS, 144 Hz, 250 nits, IPS LCD LED Backlit, True Tone\n\nIntel Core i7-11370H\n\n16 GB, DDR4, 3200 MHz\n\nSSD 512 GB\n\nGeforce RTX 3060 6GB DDR6",
+      "status": false,
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6c80e.appspot.com/o/2021%2Fupload%2F17-04%2F5.jpg?alt=media&token=53791445-80e8-4945-9242-7353f62733ee"
+    },
+    {
+      "id": "b95091b0-1f7d-439d-8711-67c33f9c819b",
+      "categoryId": "1",
+      "name": "Laptop Asus Gaming ROG Strix G512-IHN281T i7 10870H/8GB/512GB SSD/GTX1650Ti 4GB/WIN10",
+      "price": "29450000",
+      "price_detail": "27900000",
+      "desc": "15.6\", 1920 x 1080 Pixel, IPS, 144 Hz, 250 nits\n\nIntel Core i7-10870H\n\n8 GB, DDR4, 2933 MHz\n\nSSD 512 GB\n\nGeForce GTX 1650 Ti 4GB",
+      "status": true,
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6c80e.appspot.com/o/2021%2Fupload%2F17-04%2F6.jpg?alt=media&token=41fc0a80-a02e-4ab2-bf2a-803fbf2af99e"
+    },
+    {
+      "id": "685b1193-b896-415f-8ded-1fe653b82ad0",
+      "categoryId": "1",
+      "name": "Laptop Asus TUF FX506LI HN096T i7 10870H/8GB/512GB SSD/Win10",
+      "price": "26500000",
+      "price_detail": "24900000",
+      "desc": "15.6\", 1920 x 1080 Pixel, IPS, 144 Hz, 250 nits, LED Backlit\n\nIntel Core i7-10870H\n\n8 GB, DDR4, 2933 MHz\n\nSSD 512 GB\n\nGeForce GTX 1650 Ti 4GB",
+      "status": true,
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6c80e.appspot.com/o/2021%2Fupload%2F17-04%2F7.jpg?alt=media&token=247b9039-c38d-404b-aa0d-877ed9f5e7d6"
+    },
+    {
+      "id": "94e96ee6-ca06-4fde-bde2-e214808c2aff",
+      "categoryId": "1",
+      "name": "Laptop Asus Strix G512 IAL013T i5 8GB/512G SSD/GTX 1650Ti 4GB/Win10",
+      "price": "24900000",
+      "price_detail": "22000000",
+      "desc": "15.6\", 1920 x 1080 Pixel, IPS, 144 Hz, 250 nits, Anti-glare LED-backlit\n\nIntel Core i5-10300H\n\n8 GB, DDR4, 3200 MHz\n\nSSD 512 GB\n\nGeForce GTX 1650 Ti 4GB",
+      "status": true,
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6c80e.appspot.com/o/2021%2Fupload%2F17-04%2F8.jpg?alt=media&token=da46dbe7-4e2f-46a0-a450-c082e93b24c1"
+    },
+    {
+      "id": "ebe908d3-b373-4e41-8584-eef513249438",
+      "categoryId": "1",
+      "name": "Laptop Asus Vivobook X515JA EJ604T i5 1035G1/4GB/512GB SSD/15.6\"FHD/Win 10",
+      "price": "26500000",
+      "price_detail": "25000000",
+      "desc": "15.6\", 1920 x 1080 Pixel, 200 nits, Anti-glare LED-backlit\n\nIntel Core i5-1035G1\n\n4 GB, DDR4, 3200 MHz\n\nSSD 512 GB\n\nIntel UHD Graphics",
+      "status": false,
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6c80e.appspot.com/o/2021%2Fupload%2F29-04%2F9.jpg?alt=media&token=29254a1b-9bb5-4c0e-984a-b9c71dae307e"
+    },
+    {
+      "id": "21f3eacd-1872-4b4b-8117-d1f6096a9fb1",
+      "name": "iPhone 12 mini 256GB Azul",
+      "price": "27000000",
+      "price_detail": "25000000",
+      "desc": "iPhone 12 mini\nDimensiones131,5 x 64,2 x 7,4 mm\nPeso133 g\nPantallaSuper Retina XDR. Pantalla OLED de 5,4 pulgadas (en diagonal). Resolución de 2.340 por 1.080 píxeles a 476 p/p\nResistencia a las salpicaduras agua y polvoCalificación IP68 según la norma IEC 60529 (hasta 6 metros de profundidad durante un máximo de 30 minutos)\nChipChip A14 Bionic. Neural Engine de última generación",
+      "status": false,
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6c80e.appspot.com/o/2021%2Fupload%2F29-04%2F13.jpg?alt=media&token=cbe807a3-5f32-4b26-9dd8-c57478ad5f25",
+      "categoryId": "2"
+    },
+    {
+      "id": "47f8693d-5a78-43e7-81ea-bff23467debd",
+      "name": "iPhone 12 Pro Max 128GB",
+      "price": "27000000",
+      "price_detail": "25000000",
+      "desc": "6.7\", Super Retina XDR, AMOLED\n\n12.0 MP + 12.0 MP + 12.0 MP\n\n12.0 MP\n\nA14 Bionic\n\n128 GB",
+      "status": true,
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6c80e.appspot.com/o/2021%2Fupload%2F29-04%2F11.jpg?alt=media&token=6d2945c0-fe51-453a-88e5-4ec0b9dce2a6",
+      "categoryId": "2"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "laptop"
+    },
+    {
+      "id": 2,
+      "name": "Điện thoại"
+    }
+  ]
+}
